@@ -1,4 +1,3 @@
-
 # Social Media Impact on Student Life
 
 A data analysis project exploring how daily social media usage relates to student sleep, academic performance, stress, and mental wellbeing — built to support informed, constructive conversations between parents, teachers, and students about healthy social media habits.
